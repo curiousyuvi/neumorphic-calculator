@@ -1,0 +1,6 @@
+.screen {
+  height: 22rem;
+  width: 25rem;
+  background: rgb(37, 37, 37);
+  border-radius: 20px 20px 0 0;
+}

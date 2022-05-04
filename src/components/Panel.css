@@ -1,0 +1,7 @@
+.panel {
+  height: 30rem;
+  width: 25rem;
+  background-color: rgb(240, 240, 243);
+  border-radius: 12px 12px 20px 20px;
+  transform: translateY(-20px);
+}
